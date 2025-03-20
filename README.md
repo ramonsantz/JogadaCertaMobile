@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300px" src="https://github.com/user-attachments/assets/5820214b-910f-4825-8235-7d45ec96aee8" alt="Imagem">
+  <img height="300px" src="https://github.com/user-attachments/assets/5820214b-910f-4825-8235-7d45ec96aee8" ">
 </p>
 
 # Jogada Certa
