@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="300px" src="https://github.com/user-attachments/assets/5820214b-910f-4825-8235-7d45ec96aee8" alt="Imagem">
+</p>
+
 # Jogada Certa
 
 **Jogada Certa** é um aplicativo mobile dedicado para **organizações não governamentais (ONGs)** que utilizam o tema esporte como ferramenta de transformação social com voluntários, patrocinadores e a comunidade em geral. O app visa facilitar a informação e divulgação de **projetos sociais esportivos**, promover **eventos de impacto social** e incentivar **doações e apoio** às causas esportivas que buscam melhorar a vida de pessoas ao Brasil.
